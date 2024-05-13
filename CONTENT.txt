@@ -1,0 +1,119 @@
+1521 Verano PL, Irvine, CA, USA, 92617.
+phone: (312)714-3575
+e-mail: wuax@uci.edu
+
+Condensed Matter Physics Ph.D. candidate at University of California, Irvine
+
+---
+
+Education
+Doctor of Philosophy in Physics Expected 2025
+University of California, Irvine (UCI)
+Adviser: Javier Sanchez-Yamagishi
+GPA:3.87/4.0
+
+Bachelor of Science in Engineering Physics 2019
+University of Illinois at Urbana-Champaign (UIUC)
+GPA:3.51/4.0
+
+---
+
+Experimental skills
+Techniques:
+Atomic force microscopy (AFM)
+Electron beam lithography (EBL)
+Scanning electron microscopy (SEM)
+Electron Backscattered Diffraction (EBSD)
+Reactive ion etching (RIE)
+Oxygen Plasma Etching
+
+Device fabrication:
+Cleanroom
+Spincoating and lift-off
+Lithography
+Graphene wet transfer
+Cryogenics
+Ultra-high vacuum equipment
+PDMS dry transfer
+PVC/PC transfer
+Chromium and Gold wet etching
+
+---
+
+Research Experience
+Graduate Research Assistant 2019-Present
+UIUC, Prof. Sanchez-Yamagishi’s research group
+Plan daily, weekly and monthly tasks with supervisor and co-worker
+Organize large data set taken in cryogenic measurements
+Build creative ideas to tackle experimental problems such as building a new setup or procedure
+
+Research Assistant
+UIUC, Prof. Madhavan’s research group 2018-2019
+Preparing samples such as cutting wafers and spincoating substrates
+Using the electron beam lithography to pattern samples
+Deposition of elements on to samples with Ion mill evaporator and thermal evaporator
+
+UIUC, Prof. Eckstein’s research group 2017
+Measuring currents through samples using liquid nitrogen and lock-in amplifiers
+Developed fine control of melting aluminum on to substrates surface
+Organized and edited LabVIEW programs
+
+---
+
+Research Interests
+Topological insulators, topological superconductors, electrical transport, spintronics, strong spin-orbit coupling, low-temperature scanning tunneling microscopy, atomic force microscopy, Weyl semimetals, material growth, moiré superlattices, quantum Hall effect.
+
+---
+
+Mentoring Experience
+Mentor for Undergraduate Researchers 2020-Present
+Physics Department, UCI
+Taught undergraduate students how to fabricate devices
+Explained physics about current project and supervise undergraduate projects
+
+Mentor for Underrepresented Genders Student in Physics 2020-Present
+Physics Department, UCI
+Mentored underrepresented student in physics and helping them with graduate applications
+Helped new incoming graduate student to integrate into graduate school
+
+---
+
+Work Experience
+Teaching Assistant 2019-2020
+Physics Department, UCI
+Led discussion sections in university courses Modern Physics (Phys 51A), Introduction to Mathematical Methods for Physics (Phys 2), Classical Physics (Phys 7D)
+Organized office hours and extra math tutoring sessions for students
+
+Student Lecture Preparation Technician 2016-2017
+Physics Department, UIUC
+Cooperate with other workers to set up physics demonstrations
+Train to handle lab equipment inside the demonstration room
+
+University Student Financial Service and Cashier Operations (USFSCO) 2016-2017
+Physics Department, UIUC
+Contribute in maintaining filed and discharged bankruptcies to support student debtors toward financial wellness
+Organize confidential University Student Loans’ Promissory Notes
+
+---
+
+Awards
+NSF Graduate Research Honorable Mention 2021
+DaRin Butz Foundation Research Scholars (ISUR) 2018
+
+---
+
+Languages
+Full proficiency: Chinese (Cantonese and Mandarin), English
+Working proficiency: American Sign Language
+Computer Efficiency
+Python, QcoDeS, Inkscape, Powerpoint, Gimp, DesignCAD, Matlab
+
+Paper Publication
+Python, QcoDeS, Inkscape, Powerpoint, Gimp, DesignCAD, Matlab
+
+---
+
+Contact Links
+
+Linkedin: https://www.linkedin.com/in/amy-wu-5963a1bb/
+E-mail: 

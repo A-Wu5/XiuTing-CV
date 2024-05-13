@@ -1,0 +1,14 @@
+#profile-pic {
+  border-radius: 60%;
+  margin-bottom: 12px;
+  height: 220px;
+  width: 220px;
+  object-fit: cover;
+}
+
+@media (max-width: 900px) {
+  #profile-pic {
+    height: 120px;
+    width: 120px;
+  }
+}
