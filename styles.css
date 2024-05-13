@@ -6,6 +6,14 @@
   object-fit: cover;
 }
 
+#nav-bar {
+  height: 100%;
+}
+
+#nav-bar-content {
+  position: sticky;
+}
+
 @media (max-width: 900px) {
   #profile-pic {
     height: 120px;
