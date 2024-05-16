@@ -8,10 +8,12 @@
 
 #nav-bar {
   height: 100%;
+  width: auto;
+  background-color: #ea92b1;
 }
 
 #nav-bar-content {
-  position: fixed;
+  position: sticky;
 }
 
 .title-date {
