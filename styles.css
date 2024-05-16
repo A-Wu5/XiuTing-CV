@@ -11,7 +11,7 @@
 }
 
 #nav-bar-content {
-  position: sticky;
+  position: fixed;
 }
 
 .title-date {
