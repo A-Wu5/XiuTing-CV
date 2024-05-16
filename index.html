@@ -70,14 +70,14 @@
             </div>
           </div>
         </section>
-        <div class="col-xl-10 col-9">
+        <div class="col-xl-10 col-9 p-0">
           <section id="Heading">
             <div class="container col-xxl-12 px-4 py-5">
               <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
                 <div class="col-10 col-sm-8 col-lg-6">
                   <img
                     src="./assets/images/amy_kobe.jpg"
-                    class="d-block mx-lg-auto img-fluid"
+                    class="d-block mx-lg-auto img-fluid rounded"
                     alt="Amy Wu"
                     loading="lazy"
                   />
@@ -136,7 +136,7 @@
                   <h2 class="display-4 fw-bold lh-1 text-body-emphasis">
                     Bachelor of Science in Engineering Physics
                   </h2>
-                  <p class="text-body-secondary">2019</p>
+                  <p class="text-body-secondary">Graduated 2019</p>
                   <p class="lead">
                     University of Illinois at Urbana-Champaign (UIUC) <br />
                     GPA:3.51/4.0
@@ -153,12 +153,128 @@
               </div>
             </div>
           </section>
-          <section id="Publications">
-            <img
-              src="./assets/images/publication.png"
-              alt="Nature Publication"
-              height="500px"
-            />
+          <section id="Publications" data-bs-theme="dark">
+            <div id="carousel" class="carousel slide">
+              <div class="carousel-indicators">
+                <button
+                  type="button"
+                  data-bs-target="#carousel"
+                  data-bs-slide-to="0"
+                  class="active"
+                  aria-current="true"
+                  aria-label="Slide 1"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel"
+                  data-bs-slide-to="1"
+                  aria-label="Slide 2"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel"
+                  data-bs-slide-to="2"
+                  aria-label="Slide 3"
+                ></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div
+                    class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg"
+                    style="
+                      background-image: url('./assets/images/publication.png');
+                      background-size: contain;
+                    "
+                  >
+                    <div
+                      class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1"
+                    >
+                      <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">
+                        <a
+                          href="https://www.nature.com/articles/s41563-024-01894-0"
+                          >Nature Publication</a
+                        >
+                      </h3>
+                      <p>brief caption</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <svg
+                    class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"
+                    width="800"
+                    height="400"
+                    xmlns="http://www.w3.org/2000/svg"
+                    role="img"
+                    aria-label="Placeholder: Second slide"
+                    preserveAspectRatio="xMidYMid slice"
+                    focusable="false"
+                  >
+                    <title>Placeholder</title>
+                    <rect width="100%" height="100%" fill="#666"></rect>
+                    <text x="50%" y="50%" fill="#444" dy=".3em">
+                      Placeholder
+                    </text>
+                  </svg>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h5>Second slide label</h5>
+                    <p>
+                      Some representative placeholder content for the second
+                      slide.
+                    </p>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <svg
+                    class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"
+                    width="800"
+                    height="400"
+                    xmlns="http://www.w3.org/2000/svg"
+                    role="img"
+                    aria-label="Placeholder: Third slide"
+                    preserveAspectRatio="xMidYMid slice"
+                    focusable="false"
+                  >
+                    <title>Placeholder</title>
+                    <rect width="100%" height="100%" fill="#555"></rect>
+                    <text x="50%" y="50%" fill="#333" dy=".3em">
+                      Third slide
+                    </text>
+                  </svg>
+                  <div class="carousel-caption d-none d-md-block">
+                    <h5>Third slide label</h5>
+                    <p>
+                      Some representative placeholder content for the third
+                      slide.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <button
+                class="carousel-control-prev"
+                type="button"
+                data-bs-target="#carousel"
+                data-bs-slide="prev"
+              >
+                <span
+                  class="carousel-control-prev-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button
+                class="carousel-control-next"
+                type="button"
+                data-bs-target="#carousel"
+                data-bs-slide="next"
+              >
+                <span
+                  class="carousel-control-next-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
           </section>
           <section id="Skills">
             <div
