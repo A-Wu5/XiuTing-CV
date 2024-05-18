@@ -12,12 +12,25 @@
 
 .sticky-container {
   position: sticky;
-  top: 2rem;
+  top: 1.5rem;
 }
 
 .title-date {
   display: flex;
   justify-content: space-between;
+}
+
+#Awards {
+  flex-basis: 50%;
+}
+
+#Interests {
+  flex-basis: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 
 @media (max-width: 1000px) {
