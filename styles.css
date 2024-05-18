@@ -7,13 +7,12 @@
 }
 
 #nav-bar {
-  height: 100%;
-  width: auto;
   background-color: #ea92b1;
 }
 
 .sticky-container {
   position: sticky;
+  top: 2rem;
 }
 
 .title-date {
@@ -21,7 +20,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   #profile-pic {
     height: 120px;
     width: 120px;
