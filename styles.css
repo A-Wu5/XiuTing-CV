@@ -1,6 +1,7 @@
 #profile-pic {
   border-radius: 60%;
   margin-bottom: 10px;
+  padding: 5px;
   height: 220px;
   width: 220px;
   object-fit: cover;
@@ -39,7 +40,7 @@ a {
 
 @media (max-width: 991px) {
   #profile-pic {
-    height: 120px;
-    width: 120px;
+    height: 128px;
+    width: 128px;
   }
 }
