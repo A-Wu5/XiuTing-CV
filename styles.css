@@ -7,6 +7,13 @@
   object-fit: cover;
 }
 
+.rounded-img {
+  border-radius: 100%;
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+}
+
 h1 {
   margin-left: 5px;
   margin-right: 5px;
