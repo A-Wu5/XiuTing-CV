@@ -1,9 +1,14 @@
 #profile-pic {
   border-radius: 60%;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   height: 220px;
   width: 220px;
   object-fit: cover;
+}
+
+h1 {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 #nav-bar {
@@ -32,7 +37,7 @@ a {
   text-decoration: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 991px) {
   #profile-pic {
     height: 120px;
     width: 120px;
