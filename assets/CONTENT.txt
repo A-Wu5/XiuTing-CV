@@ -1,8 +1,4 @@
-1521 Verano PL, Irvine, CA, USA, 92617.
-phone: (312)714-3575
-e-mail: wuax@uci.edu
-
-Condensed Matter Physics Ph.D. candidate at University of California, Irvine
+Condensed Matter Physics Ph.D. at University of California, Irvine
 
 ---
 
@@ -116,4 +112,3 @@ Python, QcoDeS, Inkscape, Powerpoint, Gimp, DesignCAD, Matlab
 Contact Links
 
 Linkedin: https://www.linkedin.com/in/amy-wu-5963a1bb/
-E-mail: 
